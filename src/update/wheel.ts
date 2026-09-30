@@ -3,9 +3,7 @@ import { data } from './data';
 // import { updateNpm } from './updateNpm';
 
 /**
- *
- * 轮回执行
- *
+ * # 轮回执行
  */
 export async function wheel(param: {
   '--ignore'?: (string | number | boolean)[] | undefined;

@@ -1,6 +1,5 @@
-import { copyTextToClipboard } from '@vvi/copy-text';
 import { isNull } from '@vvi/is';
-import { _p } from '@vvi/node';
+import { _p, copyTextToClipboard } from '@vvi/node';
 import {
   boldPen,
   cyanPen,

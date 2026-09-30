@@ -1,9 +1,9 @@
 import dns from 'node:dns';
 import { ArgsArrMapItem } from '@vvi/command';
-import { copyTextToClipboard } from '@vvi/copy-text';
 import { isEmptyObject, isNull } from '@vvi/is';
 import {
   _p,
+  copyTextToClipboard,
   cursorAfterClear,
   cursorMoveUp,
   isWindows,
