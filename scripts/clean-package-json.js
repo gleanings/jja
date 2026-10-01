@@ -37,15 +37,15 @@ packageJson = {
     'CHANGELOG.md',
   ],
   keywords: ['jja', 'mudbean', 'vvi'],
-  homepage: 'https://npm.lmssee.com/jja',
+  homepage: 'https://npms.gleanings.cn/jja',
   dependencies,
   bugs: {
-    url: 'https://github.com/MrMudBean/jja/issues',
+    url: 'https://github.com/gleanings/jja/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/jja.git',
+    url: 'git+https://github.com/gleanings/jja.git',
   },
   publishConfig: {
     access: 'public',
